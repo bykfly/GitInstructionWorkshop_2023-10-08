@@ -27,6 +27,9 @@
 ### Что такое ветки и для чего они нужны при работе с системой контроля версий.
 
 спользуя ветвление, Вы отклоняетесь от основной линии разработки и продолжаете работу независимо от неё, не вмешиваясь в основную линию. Во многих системах контроля версий создание веток — это очень затратный процесс, часто требующий создания новой копии каталога с исходным кодом, что может занять много времени для большого проекта.
+Bugs in git can be reported directly to the mailing list (see above for details). Note that you do not need to subscribe to the list to send to it. You can help us out by attempting to reproduce the bug in the latest released version of git, or if you're willing to build git from source, the next branch. Sometimes an attempted fix may be pending in this branch, in which case your feedback as to whether the fix worked for you will be appreciated.
+
+https://github.com/bykfly/GitInstructionWorkshop_2023-10-08.git
 
 ### Базовая работа с ветками в git.
 
